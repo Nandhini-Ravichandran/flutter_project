@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Elon Musk",
+        "age": 53,
+        "city": "Bangalore",
+        "isTeamLead": false,
+        "teamLeadName": "Bill Gates",
+        "teams": [
+            {
+                "name": "Xamarin"
+            }
+        ]
+    },
+    {
+        "name": "Jeff Bezos",
+        "age": 50,
+        "city": "Bangalore",
+        "isTeamLead": false,
+        "teamLeadName": "Warren Buffet",
+        "teams": [
+            {
+                "name": "Flutter"
+            },
+            {
+                "name": "Xamarin"
+            }
+        ]
+    },
+    {
+        "name": "Bill Gates",
+        "age": 58,
+        "city": "Chennai",
+        "isTeamLead": true,
+        "teams": [
+            {
+                "name": "Web"
+            }
+        ]
+    },
+    {
+        "name": "Mark Zuckerberg",
+        "age": 35,
+        "city": "Bangalore",
+        "isTeamLead": false,
+        "teamLeadName": "Bill Gates",
+        "teams": [
+            {
+                "name": "Web"
+            }
+        ]
+    },
+    {
+        "name": "Warren Buffet",
+        "age": 63,
+        "city": "Rajastan",
+        "isTeamLead": true,
+        "teams": [
+            {
+                "name": "Xamarin"
+            }
+        ]
+    },
+    {
+        "name": "Larry Ellison",
+        "age": 43,
+        "city": "Chennai",
+        "isTeamLead": false,
+        "teamLeadName": "Warren Buffet",
+        "teams": [
+            {
+                "name": "Web"
+            },
+            {
+                "name": "Flutter"
+            }
+        ]
+    }
+]
